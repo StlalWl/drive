@@ -1,0 +1,12 @@
+Sublime Text 快捷键
+    Ctrl+D 选词 （反复按快捷键，即可继续向下同时选中下一个相同的文本进行同时编辑）
+    Ctrl+G 跳转到相应的行
+    Ctrl+J 合并行（已选择需要合并的多行时）
+    Ctrl+L 选择整行（按住-继续选择下行）
+    Ctrl + Shift + M 选择括号内的内容
+    Ctrl+U 软撤销
+    Ctrl+P 查找当前项目中的文件和快速搜索；输入 @ 查找文件主标题/函数；或者输入 : 跳转到文件某行；
+    Ctrl+R 快速列出/跳转到某个函数
+    Ctrl + ; 查找变量名,关键字 输入#keyword跳转到keyword所在的位置 
+    Ctrl+X   Ctrl+Shift+K Ctrl+q删除整行
+    Ctrl+y 反撤销
